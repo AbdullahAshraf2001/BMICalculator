@@ -1,6 +1,6 @@
 # bmi_calculator
 
-A new Flutter project.
+This application allows users to quickly and accurately calculate their Body Mass Index (BMI) based on their age, gender, weight, and height. With small tips in the result.
 
 ## Getting Started
 
