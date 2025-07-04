@@ -1,4 +1,4 @@
-# flutter_application_2
+# bmi_calculator
 
 A new Flutter project.
 
@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<h3>Application UI Light mode</h3>
+<img src="appImages/1.jpg" width="300"/>
+
+<h3>Application UI Dark mode</h3>
+<img src="appImages/2.jpg" width="300"/>
